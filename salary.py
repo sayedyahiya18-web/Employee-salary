@@ -9,6 +9,5 @@ else:
 
 bonus = 0.10*salary
 total_salary = bonus+ salary
-
 print("Bonus Amount: ₹", bonus)
 print("Total Salary: ₹", total_salary)
